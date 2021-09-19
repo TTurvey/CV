@@ -12,14 +12,28 @@ Mechanical engineering university graduate, ex-financial auditor and current stu
 ## Work Experience
 
 **Mazars** (Jul 2020 to Aug 2021)  
-_Corporate Audit Senior_
+_Senior Corporate Auditor_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Performing financial audits of large and listed corporate clients that fall within industries and services.
+- Analysing client financial information to highlight areas of risk for audit purposes.
+- Reviewing client financial forecasts to ascertain whether they include reasonable assumptions.
+- Forming opinions on whether companies should be considered a going concern by understanding the commercial issues that the client faces.
+- Communicating with board level client personnel regarding the progress of the audit and any issues that have arisen and drawing conclusions on work performed.
+- Prioritising workloads and managing time for multiple clients simultaneously.
+- Overseeing and managing the workload of junior colleagues, ensuring that time is being used effectively and assisting with any issues.
+- Part qualified ACA showing ability to learn and financial accounting skillset.
 
 **BDO** (Jan 2018 to July 2020)  
-_Corporate Audit Trainee_
+_Corporate Auditor_
 
-- Any experience relevent to software development
+- Performing financial audits of large corporate clients within a range of industries including construction, manufacturing, real estate, retail, shipping and professional services.
+
+**RSK BUSINESS SOLUTIONS** (Sept 2015 to Dec 2018)
+_Risk Consultant_
+
+- Analysing risk of train crashes across the UK. Presenting workshops to clients in order to communicate
+recommendations for signal alterations.
+
 
 ## Skills
 
@@ -53,25 +67,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Sept 2021 to Dec 2021)
+
+Please have a look at my GitHub to see how I have progressed over time => www.github.com/TTurvey
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Frequently used pairing in order to problem-solve efficiently, requiring strong teamwork and communication.
+- I have added the following skills to my arsenal over the course of the bootcamp:
+- TDD
+- Ruby
+- RSpec
 
-#### Your University / College (start_date to end_date)
+#### University of Nottingham - MEng Mechanical Engineering (2011 to 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MEng Mechanical Engineering, additional coursework in business/management and coding (MATLAB).
+- Obtained a 2:1 at Bachelor level and a 2:2 at Masters showcasing strong numeracy skills and well as an ability to problems solve.
+- Voted as the Course Representative for the year group and ensured that any problems that students had regarding the engineering course were brought to the university’s attention.
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+???
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I'm a film buff (I usually have a few good recommendations up my sleeve), enjoy going to music gigs and challenging myself physically via functional fitness competitions such as CrossFit.
