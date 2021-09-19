@@ -1,8 +1,7 @@
 ## Tim Turvey
 
-Current student at Makers Academy 
+Mechanical engineering university graduate, ex-financial auditor and current student at Makers Academy. In August 2021 I made the decision to switch careers to become a software developer. After having learnt to code in Ruby in a matter of weeks, I am committed to being fully proficient in both Ruby and JavaScript in December 2021 after having graduated one of the best coding bootcamps in London. Tech is the future and I am happy to be a part of it!
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
