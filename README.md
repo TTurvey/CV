@@ -1,23 +1,24 @@
-## Your Name
+## Tim Turvey
+
+Current student at Makers Academy 
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                     | Description                                                    | Tech/tools        |
+| ------------------------ | -------------------------------------------------------------- | ----------------- |
+| **student-directory**    | A directory script allowing management of a list of students.  | Ruby              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Mazars** (Jul 2020 to Aug 2021)  
+_Corporate Audit Senior_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**BDO** (Jan 2018 to July 2020)  
+_Corporate Audit Trainee_
 
 - Any experience relevent to software development
 
