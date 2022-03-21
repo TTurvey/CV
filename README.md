@@ -1,15 +1,28 @@
-## Tim Turvey
+## **Hi**, I'm Tim Turvey
 
-Mechanical engineering university graduate, ex-financial auditor and current student at Makers Academy. In August 2021 I made the decision to switch careers to become a software developer. After having learnt to code in Ruby in a matter of weeks, I am committed to being fully proficient in both Ruby and JavaScript in December 2021 after having graduated one of the best coding bootcamps in London. Tech is the future and I am happy to be a part of it!
+### A bit about me...  
+I'm a mechanical engineering university graduate, ex-financial auditor and a December 2021 graduate of one of the best coding boot camps in London, Makers Academy. In August 2021 I made the decision to switch careers to become a software developer. The problem-solving nature of coding is what I attracted me in the first place but the potential for me to have an impact on people and the world is what will keep me here for years to come. Tech is the future and I am happy to be a part of it!
 
+Since making the career change, I haven't looked back. I've come along way from knowing almost nothing last year to now being fully proficient in Ruby and JavaScript and able to build my own projects. For a more comprehensive list of things I have learnt whilst at Makers, see the [education](#education) section below. 
+
+I'm a fast learner and easy to get on with. Please reach out if you have any opportunities for an inspired and motivated software dev!
+
+&nbsp;
 
 ## Projects
+---
 
-| Name                     | Description                                                    | Tech/tools        |
-| ------------------------ | -------------------------------------------------------------- | ----------------- |
-| **student-directory**    | A directory script allowing management of a list of students.  | Ruby              |
+| Name        | Description | Tech/Tools     |  
+|  :---       |  :--        |  :---          |  
+| Bar.io<br/> https://github.com/TTurvey/bar.io-backend <br/> https://github.com/TTurvey/bar.io-frontend  | A bar finder web app that returns the top 5 rated bars within a selectable walking distance of the user’s current location. This was built in a team of 4 developers as our final project of the Makers Academy boot camp. The app uses Google Maps, Places and Geocoding API’s. The backend was built using Node.js and Express to create a RESTful API whilst React was used on the frontend. Unit testing was carried out with Jest.  | React, Node.js, Express  |  
+| Chitter<br/>  https://github.com/TTurvey/chitter-challenge  | Created a clone of the popular Twitter app that utilises user authentication and PostgreSQL databases.  | Ruby, rspec, Sinatra  |  
+| Minesweeper<br/>  https://github.com/TTurvey/minesweeper-javascript| A web based Minesweeper game. JavaScript was used for DOM manipulation and the deliberate implementation of recursion.  |  Javascript, Node.js, Express  |  
+
+
+&nbsp;
 
 ## Work Experience
+---
 
 **Mazars** (Jul 2020 to Aug 2021)  
 _Senior Corporate Auditor_
@@ -34,8 +47,10 @@ _Risk Consultant_
 - Analysing risk of train crashes across the UK. Presenting workshops to clients in order to communicate
 recommendations for signal alterations.
 
+&nbsp;
 
 ## Skills
+---
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -46,12 +61,15 @@ Consider skills relevent to software development. Then consider your best skills
 -What did you do? (action)
 -What was the result?
 
+&nbsp;
 
 #### This Skill
 
 - Experience
 - Achievements
 - Evidence (STAR)
+
+&nbsp;
 
 #### Another Skill
 
@@ -62,10 +80,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+&nbsp;
+
+
+<a name="education"></a>  
+
 ## Education
+---
 
-#### Makers Academy (Sept 2021 to Dec 2021)
-
+### **<ins>Makers Academy - Student</ins>** _(Sept 2021 to Dec 2021)_  
 Please have a look at my GitHub to see how I have progressed over time => www.github.com/TTurvey
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - Frequently used pairing in order to problem-solve efficiently, requiring strong teamwork and communication.
@@ -73,17 +96,17 @@ Please have a look at my GitHub to see how I have progressed over time => www.gi
 - TDD
 - Ruby
 - RSpec
+- JavaScript
+- Node.js
 
-#### University of Nottingham - MEng Mechanical Engineering (2011 to 2015)
-
+### **<ins>University of Nottingham - MEng Mechanical Engineering</ins>** _(2011 to 2015)_  
 - MEng Mechanical Engineering, additional coursework in business/management and coding (MATLAB).
 - Obtained a 2:1 at Bachelor level and a 2:2 at Masters showcasing strong numeracy skills and well as an ability to problems solve.
 - Voted as the Course Representative for the year group and ensured that any problems that students had regarding the engineering course were brought to the university’s attention.
 
-#### Any other qualifications
-
-???
-
 ## Hobbies
+---
 
-I'm a film buff (I usually have a few good recommendations up my sleeve), enjoy going to music gigs and challenging myself physically via functional fitness competitions such as CrossFit.
+- I'm a film buff (I usually have a few good recommendations up my sleeve)
+- enjoy going to music gigs
+- challenging myself physically via functional fitness competitions such as CrossFit.
