@@ -34,7 +34,7 @@ Please have a look at my [Github](www.github.com/TTurvey) to see how I have prog
 - Formed opinions on whether companies should be considered a going concern by understanding the commercial issues that the client faces.
 - Communicated with board level client personnel regarding the progress of the audit and any issues that have arisen.
 - Prioritised workloads and managed time for multiple clients simultaneously.
-- Managing the workload of junior colleagues, ensuring that time was used effectively and assisted with any issues.
+- Managed the workload of junior colleagues, ensuring that time was used effectively and assisted with any issues.
 - Part qualified ACA qualification showing ability to learn.
 
 **<ins>BDO, Corporate Auditor</ins>** _(Jan 2018 to July 2020)_  
@@ -53,7 +53,7 @@ Please have a look at my [Github](www.github.com/TTurvey) to see how I have prog
 
 **<ins>Problem-solving</ins>**  
 - I can find solutions to complex problems which is very useful as a software developer.
-- I recently built a [minesweeper](#projects) game with JavaScript. I chose to build this game because I knew it would be hard to code the automatic revealing of squares when a square with the number zero in it is clicked. With great challenge, comes a great learning opportunity though, and in this case I learnt how recursion could solve this issue - problem solved. 
+- I recently built a [minesweeper](#projects) game with JavaScript. I chose to build this game because I knew it would be hard to code the automatic revealing of squares when a square with the number zero in it is clicked. With great challenge, comes a great learning opportunity though! In this case, I learnt how recursion could solve the issue - problem solved. 
 - Please find the minesweeper game repository [here](https://github.com/TTurvey/minesweeper-javascript).
 
 
